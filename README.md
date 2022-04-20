@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyeon%20Uk&fontSize=85)
 ## 📝Introduce My Self
-* 🙋‍♂️name: Hyeon Uk Jeong
+* 🙋‍♂️name: Hyeonuk Jeong
 * 💒school: Gwangju Software Meister High School
 * 🎨department: Cyber Security
 * 🥇Awards: 2022 광주지방기능경기대회 금메달 ( 사이버 보안 )
