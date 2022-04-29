@@ -2,7 +2,7 @@
 ## 📝Introduce My Self
 * 🙋‍♂️name: Hyeonuk Jeong
 * 💒school: Gwangju Software Meister High School
-* 🎨department: Cyber Security
+* 🎨department: Cyber Security && Back-End
 * 🥇Awards: 2022 광주지방기능경기대회 금메달 ( 사이버 보안 )
 
 ## 🛠My Skill⚒
