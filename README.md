@@ -4,6 +4,7 @@
 * 💒school: Gwangju Software Meister High School
 * 🎨department: Cyber Security && Back-End
 * 🥇Awards: 2022 광주지방기능경기대회 금메달 ( 사이버 보안 )
+* 📝blog: https://velog.io/@rkadl9999
 
 ## 🛠My Skill⚒
 <img src="https://img.shields.io/badge/C-A0AFFF?style=flat-square&logo=C&logoColor=white"/> </a><img src="https://img.shields.io/badge/Linux-828282?style=flat-square&logo=Linux&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Python-FABCBC?style=flat-square&logo=Python&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Java-51FFA6?style=flat-square&logo=Java&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Flask-dcdcdc?style=flat-square&logo=flask&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Node.js-8878CD?style=flat-square&logo=node.js&logoColor=white"/> </a>
