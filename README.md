@@ -4,6 +4,7 @@
 * 💒school: Gwangju Software Meister High School
 * 🎨department: Cyber Security && Back-End
 * 🥇Awards: 2022 광주지방기능경기대회 금메달 ( 사이버 보안 )
+            2022 전국기능경기대회 장려상 ( 사이버 보안 )
 * 📝blog: https://velog.io/@rkadl9999
 ---
 >광주소프트웨어마이스터고등학교에 재학 중인 학생입니다. 🙃   
