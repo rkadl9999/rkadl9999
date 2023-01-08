@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyeon%20Uk&fontSize=85)
 ## 📝Introduce My Self
 * 🙋‍♂️name: Hyeonuk Jeong
 * 💒school: Gwangju Software Meister High School
