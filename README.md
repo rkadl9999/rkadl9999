@@ -2,7 +2,7 @@
 * 🙋‍♂️name: Hyeonuk Jeong
 * 💒school: Gwangju Software Meister High School
 * 🎨department: Cyber Security && Back-End
-* 🥇Awards: 2022 광주지방기능경기대회 금메달 ( 사이버 보안 ) &&
+* 🥇Awards: 2022, 2023 광주지방기능경기대회 금메달 ( 사이버 보안 ) &&
             2022 전국기능경기대회 장려상 ( 사이버 보안 )
 * 📝blog: https://velog.io/@rkadl9999
 
